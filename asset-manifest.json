@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-animated-website-2/static/css/main.fa85eb88.css",
+    "main.js": "/react-animated-website-2/static/js/main.8a8be5c3.js",
+    "static/media/video.png": "/react-animated-website-2/static/media/video.b3bbf1eea77a9690f5f5.png",
+    "static/media/guy.png": "/react-animated-website-2/static/media/guy.d0cb07eaf07a283fecbe.png",
+    "static/media/bg.png": "/react-animated-website-2/static/media/bg.2d7956c33191c70f72c4.png",
+    "static/media/course-2.png": "/react-animated-website-2/static/media/course-2.8d93173f35eb1ff0f3ed.png",
+    "static/media/course-3.png": "/react-animated-website-2/static/media/course-3.f2de3550ce03fcc1ee58.png",
+    "static/media/card-3.png": "/react-animated-website-2/static/media/card-3.54e851bdccbab217fbf7.png",
+    "static/media/course-1.png": "/react-animated-website-2/static/media/course-1.7819192a1e01716c806b.png",
+    "static/media/card-2.png": "/react-animated-website-2/static/media/card-2.0e18df78817046ff7b7d.png",
+    "static/media/card-1.png": "/react-animated-website-2/static/media/card-1.c79b2103bcdbeb965ec8.png",
+    "index.html": "/react-animated-website-2/index.html",
+    "main.fa85eb88.css.map": "/react-animated-website-2/static/css/main.fa85eb88.css.map",
+    "main.8a8be5c3.js.map": "/react-animated-website-2/static/js/main.8a8be5c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa85eb88.css",
+    "static/js/main.8a8be5c3.js"
+  ]
+}
